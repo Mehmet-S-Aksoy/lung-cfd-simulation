@@ -25,5 +25,5 @@ The validated setup will be used for further studies involving parameter variati
 
 ---
 
-## 📁 Project Structure
+Feel free to connect on LinkedIn(https://www.linkedin.com/in/mehmet-sabri-aksoy/) or message me if you want to collaborate or have feedback!
 
